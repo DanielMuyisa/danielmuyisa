@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">I am a pensioner through the development of Android and IOS mobile applications</h3>
+<h3 align="center">I am a pensioner through the development of Web and mobile applications</h3>
 
 <img width="400px" height="250px" align="right" src="https://cdn.dribbble.com/users/4422816/screenshots/8803765/media/fffb308d1d7a24a8687346c57ae1ff36.gif" alt='code'>
 
-- 🌱 I’m currently learning **Microsoft azure cloud technologies**
+- 🌱 I’m currently learning **C++**
 
 - 👯 I’m looking to collaborate on **team project**
 
 - 🤝 I’m looking for help with **IOT application development**
 
-- 💬 Ask me about **React, Dart, Firebase**
+- 💬 Ask me about **Javascript, Dart, php**
 
-- 📫 How to reach me **danielmuyisa37@gmail.com**
+- 📫 How to reach me **rootx003@proton.me**
 
 <img width="200px" height="200px" align="right" src="https://www.mastersoftwaresolutions.com/wp-content/uploads/2018/08/1-2.jpg" alt='mobile dev phone'>
 
