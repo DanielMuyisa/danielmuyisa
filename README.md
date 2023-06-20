@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👯 I’m looking to collaborate on **team project**
+- 👯 I’m looking to collaborate on **team projects**
 
-- 🤝 I’m looking for help with **IOT application development**
+- 🤝 I’m looking for help with **Low-level development**
 
-- 💬 Ask me about **Javascript, Dart, php**
+- 💬 Ask me about **Javascript (Reactjs), Dart(Flutter) , php(laravel)  **
 
 - 📫 How to reach me **rootx003@proton.me**
 
