@@ -3,15 +3,15 @@
 
 <img width="400px" height="250px" align="right" src="https://cdn.dribbble.com/users/4422816/screenshots/8803765/media/fffb308d1d7a24a8687346c57ae1ff36.gif" alt='code'>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **SERVER SIDE RENDERING WITH NEXTJS**
 
 - 👯 I’m looking to collaborate on **team projects**
 
-- 🤝 I’m looking for help with **Low-level development**
+- 🤝 I’m looking for help with **DevSecOps**
 
-- 💬 Ask me about **Javascript (Reactjs), Dart(Flutter) , php(laravel)  **
+- 💬 Ask me about **Reactjs & NextJs, Expressjs & Php Laravel, Restfull Api, Serverless deployment**
 
-- 📫 How to reach me **rootx003@proton.me**
+- 📫 How to reach me **danielmuyisa37@gmail.com**
 
 <img width="200px" height="200px" align="right" src="https://www.mastersoftwaresolutions.com/wp-content/uploads/2018/08/1-2.jpg" alt='mobile dev phone'>
 
